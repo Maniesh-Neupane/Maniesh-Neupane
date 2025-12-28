@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 - 🛡️ **150+ security bugs reported** through responsible disclosure  
-- 🏆 **Hall of Fame:** Google, Apple, Microsoft, etc 
+- 🏆 **Hall of Fame:** Google, Apple, Microsoft, etc  
 - 🎓 **Bachelor of Computer Application (BCA)** — 2023–2027  
 - 🌍 Online identity: **pwn4arn / manieshneupane**
 
@@ -22,33 +22,16 @@
 
 ## 🌐 Digital Presence
 <p align="center">
-  <a href="https://www.manieshneupane.com.np">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://www.manieshneupane.com.np" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="website" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/maniesh-neupane">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/maniesh-neupane" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/pwn4arn" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pwn4arn" height="30" width="40" />
+  <a href="https://twitter.com/pwn4arn" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pwn4arn" height="30" width="40" />
   </a>
 </p>
-
----
-
-## 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,graphql,postman" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-</p>
-
-- Burp Suite  
-- Kali Linux  
-- GraphQL  
-- Postman  
 
 ---
 
@@ -61,46 +44,15 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-frame=true&row=1&margin-w=15"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Maniesh-Neupane&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    src="https://streak-stats.demolab.com?user=Maniesh-Neupane&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 ---
-
-## 📚 Learn & Collaborate
-- 🤝 Open to collaborations on **security research** and **bug bounty** projects.
-- 📚 Constantly exploring new technologies and security methodologies.
 
 <div align="center">
   <img
