@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 - 🛡️ **150+ security bugs reported** through responsible disclosure  
-- 🏆 **Hall of Fame:** Google, Apple, Microsoft, and other organizations  
+- 🏆 **Hall of Fame:** Google, Apple, Microsoft,etc 
 - 🎓 **Bachelor of Computer Application (BCA)** — 2023–2027  
 - 🌍 Online identity: **pwn4arn / manieshneupane**
 
@@ -89,8 +89,4 @@
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00ff7f&height=120&section=footer"/>
 
-**“Securing the web, one disclosure at a time.”**
 
-<img src="https://visitcount.itsvg.in/api?id=Maniesh-Neupane&label=Profile%20Views&color=00ff7f&icon=shield"/>
-
-</div>
