@@ -4,8 +4,8 @@
 
 **Web-App Pentester | Offensive Security Researcher** Focused on discovering high-impact vulnerabilities and securing modern web platforms. 
 
-- 🛡️ **Proof of Impact:** 180+ Validated vulnerabilities reported.
-- 🎖️ **Recognized By:** Google, Apple, Microsoft, and Fisglobal Hall of Fames.
+- 🛡️ **Proof of Impact:** 150+ Security Validated Vulnerabilities reported.
+- 🎖️ **Recognized By:** Google, Apple, Microsoft, Fisglobal etc  Hall of Fames.
 - 🎓 **Currently:** Pursuing BCA (2023-2027) at Bhairahawa Multiple Campus.
 - 📍 **Based In:** Butwal, Nepal.
 
@@ -16,7 +16,7 @@
   <a href="https://www.manieshneupane.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-121011?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" />
   </a>
-  <a href="https://linkedin.com/in/maniesh-neupane" target="_blank">
+  <a href="https://linkedin.com/in/manieshneupane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/pwn4arn" target="_blank">
@@ -28,7 +28,7 @@
 
 ### 🛠️ Technical Arsenal
 **Security:** VAPT • Red Teaming • Network Security • OWASP Top 10  
-**Tools:** Burp Suite • Linux • Recon Frameworks • Python  
+**Tools:** Burp Suite • Linux • Recon Frameworks 
 **Focus:** XSS • SQLi • Broken Access Control • Logic Flaws
 
 ---
@@ -41,6 +41,3 @@
 
 ---
 
-<div align="center">
-  <i>To learn more about my research, search <b>pwn4arn</b> or <b>manieshneupane</b> on Google.</i>
-</div>
