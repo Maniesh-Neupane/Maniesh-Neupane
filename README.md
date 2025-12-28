@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Maniesh Neupane (Pwn4arn)
@@ -26,9 +27,6 @@
   </a>
   <a href="https://linkedin.com/in/maniesh-neupane">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://x.com/pwn4arn">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="https://twitter.com/pwn4arn" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pwn4arn" height="30" width="40" />
@@ -100,45 +98,13 @@
 
 ---
 
+## 📚 Learn & Collaborate
+- 🤝 Open to collaborations on **security research** and **bug bounty** projects.
+- 📚 Constantly exploring new technologies and security methodologies.
+
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/render?type=waving&color=00ff7f&height=120&section=footer"
     alt="Footer"
-  />
-</div>
-
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> 
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maniesh-Neupane&show_icons=true&locale=en&layout=compact" alt="Maniesh-Neupane" /></p>
-
-<p> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&locale=en" alt="Maniesh-Neupane" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maniesh-Neupane&" alt="Maniesh-Neupane" /></p>
-alt="Footer"
   />
 </div>
