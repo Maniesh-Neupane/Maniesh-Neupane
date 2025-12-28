@@ -62,31 +62,44 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-frame=true&row=1" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-frame=true&row=1&margin-w=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maniesh-Neupane&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Maniesh-Neupane&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00ff7f&height=120&section=footer"/>
-
-
+  <img
+    src="https://capsule-render.vercel.app/render?type=waving&color=00ff7f&height=120&section=footer"
+    alt="Footer"
+  />
+</div>
