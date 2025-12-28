@@ -1,51 +1,46 @@
-# Maniesh Neupane
-### **Web-App Pentester & Offensive Security Researcher**
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"> Hey, I'm Maniesh Neupane (Pwn4arn)
 
+---
+
+**Web-App Pentester | Offensive Security Researcher** Focused on discovering high-impact vulnerabilities and securing modern web platforms. 
+
+- 🛡️ **Proof of Impact:** 180+ Validated vulnerabilities reported.
+- 🎖️ **Recognized By:** Google, Apple, Microsoft, and Fisglobal Hall of Fames.
+- 🎓 **Currently:** Pursuing BCA (2023-2027) at Bhairahawa Multiple Campus.
+- 📍 **Based In:** Butwal, Nepal.
+
+---
+
+### 🌐 Digital Presence
+<div align="left">
+  <a href="https://www.manieshneupane.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-121011?style=for-the-badge&logo=ghost&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/maniesh-neupane" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/pwn4arn" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Technical Arsenal
+**Security:** VAPT • Red Teaming • Network Security • OWASP Top 10  
+**Tools:** Burp Suite • Linux • Recon Frameworks • Python  
+**Focus:** XSS • SQLi • Broken Access Control • Logic Flaws
+
+---
+
+### 📈 Tactical Overview
 <p align="left">
-  <img src="https://img.shields.io/badge/Security-Red_Teaming-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vulnerabilities-180%2B_Validated-red?style=for-the-badge&logo=bugcrowd" />
-  <img src="https://img.shields.io/badge/Hall_of_Fame-Google_|_Apple_|_MSFT-lightgrey?style=for-the-badge&logo=google-cloud" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🛡️ Professional Summary
-[cite_start]Focused on **Offensive Security** and **Web Application Penetration Testing**[cite: 7]. [cite_start]Proven track record of discovering and securing high-impact vulnerabilities in enterprise environments[cite: 8]. [cite_start]I specialize in translating complex attack vectors into actionable security insights for major tech vendors[cite: 8, 9].
-
----
-
-### 💻 Technical Expertise
-
-| Category | Skills & Technology |
-| :--- | :--- |
-| **Offensive** | [cite_start]VAPT [cite: 13][cite_start], Red Teaming [cite: 14][cite_start], Network Security [cite: 15][cite_start], OWASP Top 10 [cite: 16] |
-| **Toolchain** | [cite_start]Burp Suite [cite: 17][cite_start], Linux [cite: 17][cite_start], Custom Recon Frameworks [cite: 17] |
-| **Vulnerability Class** | [cite_start]XSS, SQLi, Broken Access Control, Logic Flaws, Info Disclosure [cite: 22] |
-| **Certifications** | [cite_start]Google Cybersecurity Professional [cite: 24][cite_start], Qualys VM Specialist [cite: 25] |
-
----
-
-### 🏅 Impact Metrics
-* [cite_start]**Total Disclosures:** 180+ validated vulnerabilities across top-tier platforms.
-* [cite_start]**Acknowlegments:** Listed in the Hall of Fame for **Google, Apple, Microsoft**, and **Fisglobal**[cite: 20, 21].
-* [cite_start]**Education:** Bachelor of Computer Application (BCA), Bhairahawa Multiple Campus[cite: 27, 28].
-
----
-
-### 📊 GitHub Activity
-<p align="left">
-  <img width="495" src="https://github-readme-stats.vercel.app/api?username=Pwn4arn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwn4arn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🔗 Connectivity
-<p align="left">
-<a href="https://linkedin.com/in/maniesh-neupane" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:manieshneupane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=00ff7f&height=25&section=footer" width="100%"/>
-</p>s
+<div align="center">
+  <i>To learn more about my research, search <b>pwn4arn</b> or <b>manieshneupane</b> on Google.</i>
+</div>
