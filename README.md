@@ -1,59 +1,44 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Maniesh%20Neupane&fontSize=70&animation=fadeIn" />
-  
-  ### 🛡️ Web-App Pentester | Offensive Security Researcher 🛡️
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Validated_Bugs-180%2B-red?style=for-the-badge&logo=bugcrowd" />
-    <img src="https://img.shields.io/badge/Hall_of_Fame-Google_|_Apple_|_MSFT-0078D4?style=for-the-badge&logo=microsoft" />
-    <img src="https://img.shields.io/badge/Location-Nepal-24292e?style=for-the-badge&logo=googlemaps" />
-  </p>
-</div>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;"> Hey! Nice to see you.
 
 ---
+Welcome to my page!
+I'm **Maniesh Neupane**, a Web-App Pentester and Offensive Security Researcher from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" style="max-width:1.5%; display: inline-block;"> Butwal, Nepal. 
 
-### 🕵️‍♂️ Professional Brief
-[cite_start]Cybersecurity Professional specialized in **Web Application Penetration Testing** [cite: 7] [cite_start]and **Offensive Security**[cite: 7]. [cite_start]I focus on discovering, validating, and reporting high-impact vulnerabilities across modern web platforms[cite: 8]. [cite_start]Recognized by major vendors—including **Apple, Google, and Microsoft**—for responsible disclosures[cite: 8].
+[cite_start]I specialize in discovering, validating, and reporting high-impact vulnerabilities across modern web platforms. [cite: 8] [cite_start]I have been recognized by major vendors—including **Apple, Google, and Microsoft**—for responsible disclosures. 
 
----
+### Things I Research & Code with
 
-### 🛠️ Technical Arsenal
+![VAPT](https://img.shields.io/badge/VAPT-FF5722?style=for-the-badge&logo=target&logoColor=white) ![Red Teaming](https://img.shields.io/badge/Red%20Teaming-FB542B?style=for-the-badge&logo=kali-linux&logoColor=white) ![Network Security](https://img.shields.io/badge/Network%20Security-%23161616.svg?style=for-the-badge&logo=fortinet&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-1997B5&?logo=owasp&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-%23181717.svg?style=for-the-badge&logo=linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%232671E5.svg?style=for-the-badge&logo=portswigger&logoColor=white) ![Recon Tools](https://img.shields.io/badge/Recon%20Tools-0AC18E?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/Python-FCD535?style=for-the-badge&logo=python&logoColor=white) 
 
-| Domain | Skills & Technologies |
-| :--- | :--- |
-| **Offensive** | [cite_start]VAPT [cite: 13][cite_start], Red Teaming [cite: 14][cite_start], Network Security [cite: 15][cite_start], OWASP Top 10 [cite: 16] |
-| **Tooling** | [cite_start]Burp Suite [cite: 17][cite_start], Linux [cite: 17][cite_start], Reconnaissance Tools [cite: 17] |
-| **Bug Hunting** | [cite_start]XSS [cite: 22][cite_start], SQL Injection [cite: 22][cite_start], Broken Access Control [cite: 22][cite_start], Logic Flaws [cite: 22] |
-| **Education** | [cite_start]Bachelor of Computer Application (BCA) [cite: 27] |
-
----
+### 🏆 Impact & Recognition
+| 🎁 Milestone | 📊 Status | 🛎 Notable Targets |
+| --- | --- | --- |
+| Validated Vulnerabilities | **180+** | [cite_start]Apple, Google, Microsoft [cite: 20] |
+| Hall of Fame Listings | **Multiple** | [cite_start]Google, Fisglobal  |
+| Critical Issue Discovery | **Active** | [cite_start]XSS, SQLi, Broken Access Control [cite: 22] |
 
 ### 📜 Certifications
-* [cite_start]🏆 **Google Cybersecurity Professional** [cite: 24]
-* [cite_start]🛡️ **Qualys Certified Specialist** - Vulnerability Management [cite: 25]
+* [cite_start]**Google Cyber Security Professional** [cite: 24]
+* [cite_start]**Qualys Certified Specialist** - Vulnerability Management [cite: 25]
 
 ---
 
-### 📊 GitHub Activity & Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=radical&hide_border=true" />
-</p>
+## Connect with me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-bg=true&margin-w=15" alt="trophy" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/maniesh-neupane" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manieshneupane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<a href="https://github.com/Pwn4arn" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/maniesh-neupane" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:manieshneupane@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a>
 </div>
 
 ---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=00ff7f&height=20&section=footer" width="100%"/>
-  <i>"Securing the web, one disclosure at a time."</i>
-</div>s
+  <img src="https://github-readme-stats.vercel.app/api?username=Pwn4arn&show_icons=true&theme=radical&hide_border=true" width="400" />
+</div>
