@@ -1,65 +1,89 @@
-# 💫 About Me:
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="38">  
-## Maniesh Neupane (Pwn4arn)
+<div align="center">
+
+# Maniesh Neupane (Pwn4arn) 🕶️
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/>
+
+### Web Application Pentester • Offensive Security Researcher  
+*Breaking modern web apps to make them safer*
 
 ---
 
-### **Web-App Pentester | Offensive Security Researcher**
-*Focused on discovering high-impact vulnerabilities and securing modern web platforms.*
-
-- 🛡️ **Proof of Impact:** 180+ validated security vulnerabilities reported  
-- 🎖️ **Recognized By:** Hall of Fame at Apple, Google, Microsoft, and Fisglobal  
-- 🎓 **Academic:** Bachelor of Computer Application (BCA), 2023–2027  
-- 🌐 **Online:** Search **pwn4arn** or **manieshneupane** on Google for research & disclosures  
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=180%2B+Validated+Vulnerabilities;Hall+of+Fame+%40+Apple+Google+Microsoft;Bug+Bounty+Hunter+%7C+Security+Researcher;OWASP+Top+10+%7C+Logic+Flaws+%7C+XSS+%7C+SQLi" />
 
 ---
 
-### 🌐 Digital Presence
-<p align="left">
-  <a href="https://www.manieshneupane.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-121011?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</div>
+
+## 🧠 About Me
+- 🛡️ **180+ validated vulnerabilities** responsibly disclosed  
+- 🏆 **Hall of Fame:** Apple, Google, Microsoft, Fisglobal  
+- 🎓 **BCA Student (2023–2027)**  
+- 🌍 Known online as **pwn4arn / manieshneupane**
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.manieshneupane.com.np">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/maniesh-neupane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/maniesh-neupane">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://x.com/pwn4arn" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  <a href="https://x.com/pwn4arn">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 🛠️ Technical Arsenal
-| Category | Stack |
-| :--- | :--- |
-| **Offensive** | VAPT, Red Teaming, Network Security, OWASP Top 10 |
-| **Toolchain** | Linux, Burp Suite, Recon Tools, Python |
-| **Research** | XSS, SQLi, Broken Access Control, Logic Flaws |
+## 🛠️ Skills & Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" />
+</p>
+
+**Offensive Security**
+- Web Application Pentesting (VAPT)
+- OWASP Top 10
+- Red Team Methodologies
+
+**Vulnerability Research**
+- XSS / SQL Injection
+- Broken Access Control
+- Business Logic Flaws
+- Authentication Bypass
 
 ---
 
-### 📊 Tactical Metrics
-<p align="left">
-  <img width="485" src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-frame=true&row=1&margin-w=15"/>
+</p>
 
 ---
 
-### 🔥 Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maniesh-Neupane&theme=tokyonight&hide_border=true" />
+## 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maniesh-Neupane&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=00ff7f&height=25&section=footer" width="100%"/>
-  <br>
-  <i>"Securing the web, one disclosure at a time."</i>
-  <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=Maniesh-Neupane&icon=0&color=0" alt="Visit Count" />
+
+<img src="https://capsule-render.vercel.app/render?type=waving&color=00ff7f&height=120&section=footer"/>
+
+**“Securing the web, one disclosure at a time.”**
+
+<img src="https://visitcount.itsvg.in/api?id=Maniesh-Neupane&label=Profile%20Views&color=00ff7f&icon=shield"/>
+
 </div>
