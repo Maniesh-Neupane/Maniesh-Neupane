@@ -1,22 +1,20 @@
 <div align="center">
 
-# Maniesh Neupane (Pwn4arn) 🕶️
-
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/>
+# Maniesh Neupane (Pwn4arn)
 
 ### Web Application Pentester • Offensive Security Researcher  
-*Securing modern web platforms through responsible disclosure*
+*Focused on finding real-world security flaws in modern web applications*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF7F&center=true&vCenter=true&width=600&lines=180%2B+Validated+Vulnerabilities;Hall+of+Fame+%40+Apple+Google+Microsoft;Bug+Bounty+Hunter+%7C+Security+Researcher;OWASP+Top+10+%7C+Logic+Flaws+%7C+XSS+%7C+SQLi" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF7F&center=true&vCenter=true&width=650&lines=150%2B+Security+Bugs+Reported;Hall+of+Fame+%7C+Google+Apple+Microsoft;Bug+Bounty+Hunter;OWASP+Top+10+%7C+Logic+Flaws+%7C+Access+Control" />
 
 </div>
 
 ---
 
 ## 🧠 About Me
-- 🛡️ **180+ validated vulnerabilities** responsibly disclosed  
-- 🏆 **Hall of Fame:** Apple, Google, Microsoft, Fisglobal  
-- 🎓 **BCA Student (2023–2027)**  
+- 🛡️ **150+ security bugs reported** through responsible disclosure  
+- 🏆 **Hall of Fame:** Google, Apple, Microsoft, and other organizations  
+- 🎓 **Bachelor of Computer Application (BCA)** — 2023–2027  
 - 🌍 Online identity: **pwn4arn / manieshneupane**
 
 ---
@@ -36,25 +34,33 @@
 
 ---
 
-## 🛠️ Skills & Arsenal
+## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,graphql,postman" />
 </p>
 
-**Offensive Security**
-- Web Application Pentesting (VAPT)
-- OWASP Top 10
-- Red Team Methodologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
 
-**Vulnerability Research**
-- XSS • SQL Injection  
-- Broken Access Control  
-- Authentication & Logic Flaws  
+- Burp Suite  
+- Kali Linux  
+- GraphQL  
+- Postman  
+
+---
+
+## 🧪 Security Focus Areas
+- Web Application Penetration Testing (VAPT)
+- OWASP Top 10 Vulnerabilities
+- Broken Access Control
+- Business Logic & Authorization Flaws
+- API & GraphQL Security Testing
 
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
