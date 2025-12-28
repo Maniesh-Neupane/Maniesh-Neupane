@@ -1,44 +1,51 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:4%; display: inline-block;"> Hey! Nice to see you.
+# Maniesh Neupane
+### **Web-App Pentester & Offensive Security Researcher**
 
----
-Welcome to my page!
-I'm **Maniesh Neupane**, a Web-App Pentester and Offensive Security Researcher from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" style="max-width:1.5%; display: inline-block;"> Butwal, Nepal. 
-
-[cite_start]I specialize in discovering, validating, and reporting high-impact vulnerabilities across modern web platforms. [cite: 8] [cite_start]I have been recognized by major vendors—including **Apple, Google, and Microsoft**—for responsible disclosures. 
-
-### Things I Research & Code with
-
-![VAPT](https://img.shields.io/badge/VAPT-FF5722?style=for-the-badge&logo=target&logoColor=white) ![Red Teaming](https://img.shields.io/badge/Red%20Teaming-FB542B?style=for-the-badge&logo=kali-linux&logoColor=white) ![Network Security](https://img.shields.io/badge/Network%20Security-%23161616.svg?style=for-the-badge&logo=fortinet&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-1997B5&?logo=owasp&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-%23181717.svg?style=for-the-badge&logo=linux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%232671E5.svg?style=for-the-badge&logo=portswigger&logoColor=white) ![Recon Tools](https://img.shields.io/badge/Recon%20Tools-0AC18E?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/Python-FCD535?style=for-the-badge&logo=python&logoColor=white) 
-
-### 🏆 Impact & Recognition
-| 🎁 Milestone | 📊 Status | 🛎 Notable Targets |
-| --- | --- | --- |
-| Validated Vulnerabilities | **180+** | [cite_start]Apple, Google, Microsoft [cite: 20] |
-| Hall of Fame Listings | **Multiple** | [cite_start]Google, Fisglobal  |
-| Critical Issue Discovery | **Active** | [cite_start]XSS, SQLi, Broken Access Control [cite: 22] |
-
-### 📜 Certifications
-* [cite_start]**Google Cyber Security Professional** [cite: 24]
-* [cite_start]**Qualys Certified Specialist** - Vulnerability Management [cite: 25]
+<p align="left">
+  <img src="https://img.shields.io/badge/Security-Red_Teaming-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerabilities-180%2B_Validated-red?style=for-the-badge&logo=bugcrowd" />
+  <img src="https://img.shields.io/badge/Hall_of_Fame-Google_|_Apple_|_MSFT-lightgrey?style=for-the-badge&logo=google-cloud" />
+</p>
 
 ---
 
-## Connect with me
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-<a href="https://github.com/Pwn4arn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/maniesh-neupane" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:manieshneupane@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>
-</div>
+### 🛡️ Professional Summary
+[cite_start]Focused on **Offensive Security** and **Web Application Penetration Testing**[cite: 7]. [cite_start]Proven track record of discovering and securing high-impact vulnerabilities in enterprise environments[cite: 8]. [cite_start]I specialize in translating complex attack vectors into actionable security insights for major tech vendors[cite: 8, 9].
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pwn4arn&show_icons=true&theme=radical&hide_border=true" width="400" />
-</div>
+### 💻 Technical Expertise
+
+| Category | Skills & Technology |
+| :--- | :--- |
+| **Offensive** | [cite_start]VAPT [cite: 13][cite_start], Red Teaming [cite: 14][cite_start], Network Security [cite: 15][cite_start], OWASP Top 10 [cite: 16] |
+| **Toolchain** | [cite_start]Burp Suite [cite: 17][cite_start], Linux [cite: 17][cite_start], Custom Recon Frameworks [cite: 17] |
+| **Vulnerability Class** | [cite_start]XSS, SQLi, Broken Access Control, Logic Flaws, Info Disclosure [cite: 22] |
+| **Certifications** | [cite_start]Google Cybersecurity Professional [cite: 24][cite_start], Qualys VM Specialist [cite: 25] |
+
+---
+
+### 🏅 Impact Metrics
+* [cite_start]**Total Disclosures:** 180+ validated vulnerabilities across top-tier platforms.
+* [cite_start]**Acknowlegments:** Listed in the Hall of Fame for **Google, Apple, Microsoft**, and **Fisglobal**[cite: 20, 21].
+* [cite_start]**Education:** Bachelor of Computer Application (BCA), Bhairahawa Multiple Campus[cite: 27, 28].
+
+---
+
+### 📊 GitHub Activity
+<p align="left">
+  <img width="495" src="https://github-readme-stats.vercel.app/api?username=Pwn4arn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwn4arn&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Connectivity
+<p align="left">
+<a href="https://linkedin.com/in/maniesh-neupane" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:manieshneupane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=00ff7f&height=25&section=footer" width="100%"/>
+</p>s
