@@ -5,25 +5,23 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="45"/>
 
 ### Web Application Pentester • Offensive Security Researcher  
-*Breaking modern web apps to make them safer*
+*Securing modern web platforms through responsible disclosure*
 
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=180%2B+Validated+Vulnerabilities;Hall+of+Fame+%40+Apple+Google+Microsoft;Bug+Bounty+Hunter+%7C+Security+Researcher;OWASP+Top+10+%7C+Logic+Flaws+%7C+XSS+%7C+SQLi" />
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF7F&center=true&vCenter=true&width=600&lines=180%2B+Validated+Vulnerabilities;Hall+of+Fame+%40+Apple+Google+Microsoft;Bug+Bounty+Hunter+%7C+Security+Researcher;OWASP+Top+10+%7C+Logic+Flaws+%7C+XSS+%7C+SQLi" />
 
 </div>
+
+---
 
 ## 🧠 About Me
 - 🛡️ **180+ validated vulnerabilities** responsibly disclosed  
 - 🏆 **Hall of Fame:** Apple, Google, Microsoft, Fisglobal  
 - 🎓 **BCA Student (2023–2027)**  
-- 🌍 Known online as **pwn4arn / manieshneupane**
+- 🌍 Online identity: **pwn4arn / manieshneupane**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Digital Presence
 <p align="center">
   <a href="https://www.manieshneupane.com.np">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
@@ -49,31 +47,34 @@
 - Red Team Methodologies
 
 **Vulnerability Research**
-- XSS / SQL Injection
-- Broken Access Control
-- Business Logic Flaws
-- Authentication Bypass
+- XSS • SQL Injection  
+- Broken Access Control  
+- Authentication & Logic Flaws  
 
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maniesh-Neupane&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maniesh-Neupane&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Maniesh-Neupane&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
