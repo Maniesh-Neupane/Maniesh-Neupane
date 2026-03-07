@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Maniesh Neupane (Pwn4arn)
@@ -20,6 +19,14 @@
 
 ---
 
+## 🌟 Achievements
+- 🚀 Discovered **critical security vulnerabilities** in top global platforms  
+- 🥇 Featured in multiple **industry-wide bug bounty reports**  
+- 🔐 Contributed to **enhancing corporate security policies** via ethical hacking  
+- 📰 Published **research articles on modern web security flaws**  
+
+---
+
 ## 🌐 Digital Presence
 <p align="center">
   <a href="https://www.manieshneupane.com.np">
@@ -31,6 +38,14 @@
   <a href="https://twitter.com/pwn4arn" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pwn4arn" height="30" width="40" />
   </a>
+</p>
+
+---
+
+## ⭐ Stats & Stars
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pwn4arn&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=pwn4arn&theme=radical" />
 </p>
 
 ---
@@ -60,6 +75,3 @@
 - API & GraphQL Security Testing
 
 ---
-
-
-
