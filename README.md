@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Maniesh Neupane (Pwn4arn)
@@ -19,18 +20,6 @@
 
 ---
 
-## 🌟 Achievements
-<p align="center">
-  <img src="https://img.shields.io/badge/Critical%20Vulns-Discovered-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/Industry%20Recognition-Achieved-00FF7F?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/Policy%20Impact-Enhanced-1E90FF?style=for-the-badge&logo=security&logoColor=white">
-  <img src="https://img.shields.io/badge/Research-Published-FF69B4?style=for-the-badge&logo=researchgate&logoColor=white">
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Top%20Hunter-FFD700?style=for-the-badge&logo=bugcrowd&logoColor=black">
-  <img src="https://img.shields.io/badge/OWASP-Top%2010-FF4500?style=for-the-badge&logo=owasp&logoColor=white">
-</p>
-
----
-
 ## 🌐 Digital Presence
 <p align="center">
   <a href="https://www.manieshneupane.com.np">
@@ -42,14 +31,6 @@
   <a href="https://twitter.com/pwn4arn" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pwn4arn" height="30" width="40" />
   </a>
-</p>
-
----
-
-## ⭐ Stats & Stars
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maniesh-Neupane&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
-  <img src="https://streak-stats.demolab.com?user=Maniesh-Neupane&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -79,3 +60,4 @@
 - API & GraphQL Security Testing
 
 ---
+
