@@ -94,17 +94,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Maniesh-Neupane&theme=matrix&no-frame=true&row=1&column=4" />
 </p>
-
----
-
-## 💻 Hacker Mode (Matrix Style!)
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="600"/>
-</p>
-
----
-
-## 📝 Footer
-<p align="center">
-“Hack the planet, responsibly.” – **Maniesh Neupane**
-</p>
