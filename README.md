@@ -6,7 +6,7 @@
 ### Web Application Pentester • Offensive Security Researcher  
 *Focused on finding real-world security flaws in modern web applications*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF7F&center=true&vCenter=true&width=650&lines=150%2B+Security+Bugs+Reported;Hall+of+Fame+%7C+Google,+Apple,+Microsoft;Bug+Bounty+Hunter;OWASP+Top+10+%7C+Logic+Flaws+%7C+Access+Control" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF7F&center=true&vCenter=true&width=650&lines=90+%2B+Security+Bugs+Reported;Hall+of+Fame+%7C+Google,+Apple,+Microsoft;Bug+Bounty+Hunter;OWASP+Top+10+%7C+Logic+Flaws+%7C+Access+Control" />
 
 </div>
 
