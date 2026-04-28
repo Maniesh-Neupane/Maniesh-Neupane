@@ -13,7 +13,7 @@
 ---
 
 ## 🧠 About Me
-- 🛡️ **150+ security bugs reported** through responsible disclosure  
+- 🛡️ **90+ security bugs reported** through responsible disclosure  
 - 🏆 **Hall of Fame:** Google, Apple, Microsoft, etc 
 - 🎓 **Bachelor of Computer Application (BCA)** — 2023–2027  
 - 🌍 Online identity: **pwn4arn / manieshneupane**
