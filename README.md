@@ -18,7 +18,7 @@
 - ☁️ **AWS Cloud Security** — IAM auditing, GuardDuty, CloudTrail, Security Hub
 - 🔴 **Offensive Security** — IDOR, SSRF, Auth Bypass, API Security, Mobile Pentesting
 - 🎓 **Bachelor of Computer Applications (BCA)** — Tribhuvan University · 2023–2027
-- 🌍 Identity: **pwn4arn** / manieshneupane · Based in Nepal · Open to Remote
+- 🌍 Identity: **pwn4arn** / manieshneupane · Based in Nepal
 
 ---
 
@@ -50,7 +50,6 @@
   <img src="https://img.shields.io/badge/Nuclei-00B4D8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/ffuf-4B0082?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Genymotion-FF6D00?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/mitmproxy-005C8A?style=for-the-badge&logo=wireshark&logoColor=white">
