@@ -102,7 +102,7 @@
 ---
 
 
-
+<div align="center">
 
 *"I find the vulnerabilities that automated scanners miss."*
 
