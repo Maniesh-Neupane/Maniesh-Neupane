@@ -102,36 +102,7 @@
 ---
 
 
----
 
-## 📊 Frameworks & Standards
-
-<div align="center">
-
-| Framework | Application |
-|-----------|------------|
-| **MITRE ATT&CK** | Mapping web & cloud vulnerabilities to adversarial techniques |
-| **NIST CSF** | Applying Identify · Protect · Detect in AWS security audits |
-| **CIS AWS Benchmark** | IAM, S3, CloudTrail hardening reference |
-| **OWASP Top 10** | Web application security testing methodology |
-| **NIST SP 800-53** | Control mapping for cloud security findings |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=attacker-codeninja&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attacker-codeninja&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</div>
-
----
-
-
-
-<div align="center">
 
 *"I find the vulnerabilities that automated scanners miss."*
 
