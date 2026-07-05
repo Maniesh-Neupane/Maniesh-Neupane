@@ -46,7 +46,7 @@
 ### Offensive Security
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite%20Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
   <img src="https://img.shields.io/badge/Nuclei-00B4D8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/ffuf-4B0082?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=databricks&logoColor=white">
